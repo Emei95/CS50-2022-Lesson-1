@@ -1,2 +1,8 @@
+lab50:true
 .cs50.yml
 README.md
+
+lab50:
+  files:
+   - !include foo.c
+   - !include foo.h
